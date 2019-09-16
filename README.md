@@ -1,4 +1,4 @@
-## Outfit Recommendation Project
+# **Outfit Recommendation Project**
 
 ### Markdown
 
