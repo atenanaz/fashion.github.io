@@ -7,7 +7,7 @@ contribute significantly in the economic landscape of the textile and fashion in
 In this project we proposed Gruop-based modelling to contemplate fashion outfit recommendation as compatibility 
 prediction score as shown in the following figure:
 
-
+![]/Compatibility.pdf
 
 
 
