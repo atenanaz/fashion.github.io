@@ -1,8 +1,12 @@
-# **Outfit Recommendation Project**
+# **Fashion Outfit Recommendation Project**
 
-### Markdown
+Fashion recommendation services have gained lot of popularity over the last decade in online fashion stores.
+fashion recommender systems (RSs) can act as a principal defense strategy against consumer over choice and contribute significantly in the economic landscape of the textile and fashion industry.
+In this project we proposed Gruop-based modelling to contemplate fashion outfit recommendation as compatibility prediction score.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
 
 ```markdown
 Syntax highlighted code block
